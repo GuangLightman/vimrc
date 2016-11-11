@@ -1,3 +1,6 @@
+This is a repo forked from amix's great work [vimrc](https://github.com/amix/vimrc). I have adapted a few files for my own preference.
+If you are interested, please go to the original work[vimrc](https://github.com/amix/vimrc).
+
 # The Ultimate vimrc
 
 Over the last 8 years I have used and tweaked Vim. This is my Ultimate vimrc.
